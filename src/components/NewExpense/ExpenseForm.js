@@ -1,4 +1,4 @@
-import react, { useState } from "react";
+import { useState } from "react";
 import "./ExpenseForm.css";
 
 const ExpenseForm = (props) => {
