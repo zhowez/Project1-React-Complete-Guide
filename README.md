@@ -13,5 +13,5 @@ In this project we created an expense tracker that displayed current expenses, a
 - Handling Form Submission
 - Rendering Conditional Content
 
-#Course Link
+# Course Link
 The course can be found at https://www.udemy.com/course/react-the-complete-guide-incl-redux/
